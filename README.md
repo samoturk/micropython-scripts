@@ -4,6 +4,7 @@
   * LEDs: WS2812 B (similar to NeoPixel)
   * Microcontroller runs MicroPython
 
+#### Youtube video:
 [![Stranger things inspired wall with (WS2812) NeoPixel LEDs, controlled by esp8266](http://img.youtube.com/vi/U8Udf2D9fUc/0.jpg)](http://www.youtube.com/watch?v=U8Udf2D9fUc)
 
 #### Instructions
